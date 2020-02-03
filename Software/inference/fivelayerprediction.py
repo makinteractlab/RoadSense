@@ -1,3 +1,5 @@
+# sample of five layer CNN inference code
+
 """
 Real time prediction with bitscope
 """
