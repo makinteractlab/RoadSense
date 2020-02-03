@@ -1,3 +1,5 @@
+# library needed for bitscope
+
 from ctypes import *
 import platform
 import os
