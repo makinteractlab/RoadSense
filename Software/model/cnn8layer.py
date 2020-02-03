@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """Cnn8layer.ipynb
 """
+# model file
+
 import keras
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Activation, Flatten
