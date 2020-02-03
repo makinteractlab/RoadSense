@@ -1,3 +1,5 @@
+# 2 way classification inference & gui
+
 import sys
 import time
 from ctypes import *
