@@ -42,3 +42,8 @@ Kickboard terrain recognizer
 
 ### checkpoint
 - directory for checkpoints
+
+## data
+Indoor Data - https://drive.google.com/open?id=101RC0a9M88mY0WIPf8Cyz7w_RYm-u2A2
+Indoor Bitscope Data - https://drive.google.com/open?id=101RC0a9M88mY0WIPf8Cyz7w_RYm-u2A2
+Real Data - https://drive.google.com/open?id=101RC0a9M88mY0WIPf8Cyz7w_RYm-u2A2
