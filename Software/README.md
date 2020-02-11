@@ -46,6 +46,6 @@ Kickboard terrain recognizer
 ## data
 Indoor Data - https://drive.google.com/open?id=101RC0a9M88mY0WIPf8Cyz7w_RYm-u2A2
 
-Indoor Bitscope Data - https://drive.google.com/open?id=101RC0a9M88mY0WIPf8Cyz7w_RYm-u2A2
+Indoor Bitscope Data - https://drive.google.com/open?id=1KaLjYUr47xAKG834AuoG_bFQfGT5S0UU
 
-Real Data - https://drive.google.com/open?id=101RC0a9M88mY0WIPf8Cyz7w_RYm-u2A2
+Real Data - https://drive.google.com/open?id=1eXo_kRLe0fAMVwOHebR0KWf-Y9IuYkUs
